@@ -96,7 +96,7 @@ Here are some ideas to get you started:
  <img src="https://github-readme-stats.vercel.app/api?username=pratik-app&show_icons=true&count_private=true&hide_border=true&theme=merko" />
   </td>
   <td valign="top" width="33%">
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratik-app&repo=github-readme-stats)](https://github.com/pratik-app/github-readme-stats)
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratik-app&repo=github-readme-statso" />
   </td>
   </tr></table>  
 <br/>  
