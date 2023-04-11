@@ -96,7 +96,7 @@ Here are some ideas to get you started:
  <img src="https://github-readme-stats.vercel.app/api?username=pratik-app&show_icons=true&count_private=true&hide_border=true&theme=merko" />
   </td>
   <td valign="top" width="33%">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratik-app&repo=pratik-app" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratik-app&repo=pratik-app" alt = "checcking description"/>
   </td>
   </tr></table>  
 <br/>  
