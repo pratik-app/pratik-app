@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 ### <div align="center">I'm Pratik More, a full-time full-stack Web developer 👨‍💻 </div>  
   
 
-- 🌱 I’m currently learning Python, React and AWS  
+ - 🔭 I’m currently working on Laravel projects and building cost friendly websites
   
 
-- ❓ Ask me about anything related to PHP stack and related technologies  
+- ❓ Ask me about anything related to Full Stack Development using PHP and related technologies  
   
 
 <br/>  
